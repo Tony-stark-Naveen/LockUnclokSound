@@ -1,7 +1,7 @@
 # LockUnclokSound
 Lock Unlock sound for windows (Event Listener)
 # 🚀 Session Sound Pro
-### 🔒 Lock / Unlock Sound Controller with Futuristic Dashboard
+### 🔒 Lock / Unlock Sound Controller with Dashboard
 
 ![Banner](https://via.placeholder.com/1200x400?text=Session+Sound+Pro)
 
