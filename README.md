@@ -24,7 +24,8 @@ Lock Unlock sound for windows (Event Listener)
 - Select your **lock / unlock texts**
 - All settings are stored in setting json:
 
-```bash
+
 session_config.json
 ### password
-https://github.com/user-attachments/assets/bbafed53-6995-4525-a8cb-665c85244615
+```bash
+Tony
