@@ -21,10 +21,8 @@ Lock Unlock sound for windows (Event Listener)
 
 ## 🧠 How It Works
 
-- Select your **lock / unlock sound files**
-- Choose a **wallpaper background**
-- Adjust volume & enable settings
-- All settings are stored in:
+- Select your **lock / unlock texts**
+- All settings are stored in setting json:
 
 ```bash
 session_config.json
