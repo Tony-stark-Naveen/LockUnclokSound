@@ -29,4 +29,4 @@ Lock Unlock sound for windows (Event Listener)
 ```bash
 session_config.json
 ### password
-<img width="328" height="369" alt="image" src="https://github.com/user-attachments/assets/bbafed53-6995-4525-a8cb-665c85244615" />
+https://github.com/user-attachments/assets/bbafed53-6995-4525-a8cb-665c85244615
